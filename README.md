@@ -116,12 +116,15 @@ round-trip min/avg/max/stddev = 0.042/0.043/0.045/0.001 ms
 
 <div align="center">
 
-`> connection stable`
+<div align="center">
+
+### *"Tanquam ex ungue leonem."*
+
+**— Johann Bernoulli**
+
+</div>
 
 <br />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://komarev.com/ghpvc/?username=zenith600&icon=7&color=00F58C)](https://visitcount.itsvg.in)
 
 </div>
